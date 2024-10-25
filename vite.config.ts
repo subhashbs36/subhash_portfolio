@@ -4,9 +4,9 @@ import tsconfigPaths from "vite-tsconfig-paths";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/subhash_portfolio/",  // This ensures paths work properly from the subdirectory
+  base: "/",  // This ensures paths work properly from the subdirectory
   build: {
-    outDir: "build",    // or 'dist', whichever you're using
+    outDir: 'build',  // Specify the output directory for the build
   },
   plugins: [tsconfigPaths(), react()],
 });

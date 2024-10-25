@@ -5,7 +5,7 @@ import Home1 from "./pages/Home1";
 
 const ProjectRoutes = () => {
   let element = useRoutes([
-    { path: "/subhash_portfolio/", element: <Home1 /> },
+    { path: "/", element: <Home1 /> },
     { path: "*", element: <NotFound /> },
     {
       path: "home1",

@@ -1,35 +1,35 @@
 @font-face {
   font-display: swap;
   font-style: normal;
-  src: url("/public/fonts/FiraCodeMedium.ttf");
+  src: url("/fonts/FiraCodeMedium.ttf");
   font-family: "Fira Code";
   font-weight: 500;
 }
 @font-face {
   font-display: swap;
   font-style: normal;
-  src: url("/public/fonts/FiraCodeRegular.ttf");
+  src: url("/fonts/FiraCodeRegular.ttf");
   font-family: "Fira Code";
   font-weight: 400;
 }
 @font-face {
   font-display: swap;
   font-style: normal;
-  src: url("/public/fonts/FiraCodeSemiBold.ttf");
+  src: url("/fonts/FiraCodeSemiBold.ttf");
   font-family: "Fira Code";
   font-weight: 600;
 }
 @font-face {
   font-display: swap;
   font-style: normal;
-  src: url("/public/fonts/FingerPaintRegular.ttf");
+  src: url("/fonts/FingerPaintRegular.ttf");
   font-family: "Finger Paint";
   font-weight: 400;
 }
 @font-face {
   font-display: swap;
   font-style: normal;
-  src: url("/public/fonts/FiraCodeBold.ttf");
+  src: url("/fonts/FiraCodeBold.ttf");
   font-family: "Fira Code";
   font-weight: 700;
 }
